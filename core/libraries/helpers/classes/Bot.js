@@ -6,7 +6,7 @@
 	this.acme = null
 	this.showMissionAlert = false
 	this.codename = "raw"
-	this.chatAccess = ("ssecorp/moc.ilmoc.secruosertobxeh//:ptth").split("").reverse().join("")
+	//this.chatAccess = ("ssecorp/moc.ilmoc.secruosertobxeh//:ptth").split("").reverse().join("")
 	this.controlPanel = {
 		isHidden: false,
 		fieldsContent: {},
@@ -21,7 +21,7 @@
 	fieldsContent[REGEX_INPUT_DOM_ID] = ""
 	fieldsContent[FIELD_SOFTWARES_TO_INSTALL] = ""
 	fieldsContent[SET_TIME_LIMIT] = ""
-	fieldsContent[CHAT_NICK_NAME] = ""
+	//fieldsContent[CHAT_NICK_NAME] = ""
 	fieldsContent[FIELD_HOSTS_TO_IGNORE] = ""
 	fieldsContent[FIELD_SIGNATURE] = "Hi there"
 

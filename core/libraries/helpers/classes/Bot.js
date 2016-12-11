@@ -6,7 +6,7 @@
 	this.acme = null
 	this.showMissionAlert = false
 	this.codename = "raw"
-	this.chatAccess = ("ssecorp/moc.ilmoc.secruosertobxeh//:ptth").split("").reverse().join("")
+	this.chatAccess = ("").split("").reverse().join("")
 	this.controlPanel = {
 		isHidden: false,
 		fieldsContent: {},

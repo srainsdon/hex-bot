@@ -1,4 +1,4 @@
-﻿#cheatmaster v0.1.26 - November 6 - 2016
+﻿#cheatmaster v0.1.7 - december 12 - 2016
 Suite of scripts to automate some processes on Hacker Experience game website.
 
 This must be installed as a Google Chrome extension.
@@ -23,6 +23,7 @@ Functionalities:
 4. Load the uncompressed directory
 
 # Changelog
+* v0.1.27 - Upgraded security measure protocols to deter bans from HE moderators
 * v0.1.26 - Delete software mission sequence implemented.
 * v0.1.25.2 - Fixing last update issue. If skip hide upload logs option (webcrawler checkbox) was active and the installing failed then the upload logs would not be clear.
 * v0.1.25.1 - Just some adjustments
@@ -69,9 +70,3 @@ Functionalities:
 * v0.1.9 - Core upgrade
     * Now bot runs over jSpaguetti API
 * v0.1.8 - First stable version
-
-# How to contribute
-The bot is entirely written with [jSpaghetti](https://github.com/gresendesa/jSpaghetti) API. jSpaghetti provides a modular and declarative way to write scripts.
-There are two ways to add new functionalities.
-* Creating a new sequence into a existing module to related functionality; or
-* Creating a module to build a new functionality.

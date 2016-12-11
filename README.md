@@ -1,4 +1,4 @@
-﻿#cheatmaster v0.1.27 - december 12 - 2016
+﻿#Hacker Experience Bot v0.1.27 - december 12 - 2016
 Suite of scripts to automate some processes on Hacker Experience game website.
 
 This must be installed as a Google Chrome extension.

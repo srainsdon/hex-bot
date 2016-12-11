@@ -1,6 +1,6 @@
-﻿const VERSION_BOT = "0.1.26"
-const COMMAND_PANEL_STORAGE_NAME = "HE Bot-ControlPanel"
-const BOT_STORAGE_NAME = "HE Bot-State"
+const VERSION_BOT = "0.1.26"
+const COMMAND_PANEL_STORAGE_NAME = "HExBot-ControlPanel"
+const BOT_STORAGE_NAME = "HExBot-State"
 
 //DOM IDs
 const COMMAND_PANEL_DOM_ID = 'gen-modal'

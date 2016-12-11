@@ -17,9 +17,9 @@ var views = {
 			'<div class="widget-title">' +
 				'<h5>' + LANG.CONTROL_PANEL_TITLE + '</h5>' +
 				'<span id="' + COMMAND_PANEL_CLOSE_BUTTON_DOM_ID + '" class="btn btn-danger" style="float: right">X</span>' +
-				//'<span id="' + INFO_ALERT + '" class="btn btn-warning" style="float: right">!</span>' +
+				'<span id="' + INFO_ALERT + '" class="btn btn-warning" style="float: right">!</span>' +
 				'<span id="' + CREDITS_INFO + '" class="btn btn-info" style="float: right">:)</span>' +
-				//'<span id="' + SET_CHAT_PANEL + '" class="btn btn-success" style="float: right"><i class="fa fa-users" aria-hidden="true"></i></span>' +
+				'<span id="' + SET_CHAT_PANEL + '" class="btn btn-success" style="float: right"><i class="fa fa-users" aria-hidden="true"></i></span>' +
 			'</div>' +
 			'<div id="' + MAIN_SCREEN_DOM_ID + '" class="modal-body" style="max-height:405px">' +
 				'<div id="' + MESSAGE_CONTAINER + '"></div>' +

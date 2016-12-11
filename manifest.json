@@ -1,19 +1,19 @@
 {
 	"manifest_version": 2,
-	"name": "Hacker Experience Bot (2016)",
-	"version": "0.1.76",
+	"name": "Hacker Experience bot (2016)",
+	"version": "0.1.27",
 	"description": "A bot to automate things on Hacker Experience",
 	"browser_action": {
  		"default_popup": "core/popup.html"
  	},
- 	"author":"gman 2016",
+ 	"author":"gmanning",
 	"permissions": [
 		"tabs"
 	],
 	"icons": {"256": "icon.png"},
 	"content_scripts":[
 		{
-			"matches": ["https://legacy.hackerexperience.com/*", "https://en.hackerexperience.com/*", "http://localhost/*", "https://*/*"],
+			"matches": ["https://br.hackerexperience.com/*", "https://legacy.hackerexperience.com/*", "https://en.hackerexperience.com/*", "http://localhost/*", "https://*/*"],
 			"js":[
 				"core/libraries/vendor/jSpaghetti/jSpaghetti.min.js",
 

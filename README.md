@@ -1,4 +1,4 @@
-# HExBot v0.1.27 - December 11 - 2016
+# HExBot v0.1.27 - December 29 - 2016
 Suite of scripts to automate some processes on Hacker Experience game website.
 
 This must be installed as a Google Chrome extension.
@@ -23,7 +23,7 @@ Functionalities:
 4. Load the uncompressed directory
 
 # Changelog
-* v0.1.27 - Remove tracker placed by asshats
+* v0.1.27 - Removed tracker placed by asshats in chat access coding
 * v0.1.26 - Delete software mission sequence implemented.
 * v0.1.25.2 - Fixing last update issue. If skip hide upload logs option (webcrawler checkbox) was active and the installing failed then the upload logs would not be clear.
 * v0.1.25.1 - Just some adjustments

